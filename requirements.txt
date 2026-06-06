@@ -1,0 +1,4 @@
+pygame==2.5.2
+pillow==10.0.0
+requests==2.31.0
+sqlite3-python==1.0.0
